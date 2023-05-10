@@ -76,6 +76,7 @@ group :test do
   gem 'shoulda-matchers'
   gem 'vcr'
   gem 'webmock'
+  gem 'shoulda-matchers'
 end
 
 gem 'devise'
